@@ -1,4 +1,19 @@
 /* Awesome Styling */
-h1 {
-  color: orange;
+h1{
+  color: blanchedalmond;
+  font-size: 6em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.char1 {
+  color: red;
+}
+
+.char2 {
+  color: blue;
+}
+
+.char3 {
+  color: violet;
 }
